@@ -4,19 +4,19 @@ This project is the web page of a pasta business designed using HTML and CSS. Ja
 
 
 #### Home Page
-![Home-page](https://r.resimlink.com/VFLf5AY_.png)
+[![image](https://r.resimlink.com/HQoYkVfs4vOC.png)](https://resimlink.com/HQoYkVfs4vOC)
 
 #### Menu
-![Menu](https://r.resimlink.com/2EUzA_1In8Wj.png)
+[![image](https://r.resimlink.com/0aexSBbJ9c.png)](https://resimlink.com/0aexSBbJ9c)
 
-#### Information, About Us And Contact
-![About](https://r.resimlink.com/QTgMyn.png)
+#### About
+[![image](https://r.resimlink.com/KkR13UA.png)](https://resimlink.com/KkR13UA)
 
 #### Contact Me
-![Contact](https://r.resimlink.com/EUiq4IvQRV_.png)
+[![image](https://r.resimlink.com/MvEfe73iz.png)](https://resimlink.com/MvEfe73iz)
 
-#### Footer Part
-![Footer](https://r.resimlink.com/Ib8EjJhzZ3.png)
+#### Footer
+[![image](https://r.resimlink.com/0CIsfa4t_ye.png)](https://resimlink.com/0CIsfa4t_ye)
 
-#### Jquery and JavaScript
-[![image](https://r.resimlink.com/bdRNXE.png)](https://resimlink.com/bdRNXE)
+#### Responsive / JavaScipt and jQuery
+[![image](https://r.resimlink.com/tDk6s-IMA5.png)](https://resimlink.com/tDk6s-IMA5)
